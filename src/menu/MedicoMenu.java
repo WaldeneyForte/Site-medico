@@ -98,7 +98,7 @@ public class MedicoMenu extends MenuAfterLogin {
                 }
                 break;
             case 2:
-                Printer.print("Digite a senha antiga: ");
+                System.out.println("Digite a senha antiga: ");
                 String senhaAntiga = scanner.nextLine();
                 Printer.print("Digite a nova senha: ");
                 String novaSenha = scanner.nextLine();
