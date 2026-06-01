@@ -165,10 +165,3 @@ Este projeto é fornecido como material educacional.
 
 **WaldeneyForte**
 
----
-
-**Última atualização**: Maio de 2026
-
----
-
-> **Nota**: Este é um projeto acadêmico. Para um sistema hospitalar real, considerações de segurança, conformidade HIPAA e banco de dados apropriados seriam necessárias.
